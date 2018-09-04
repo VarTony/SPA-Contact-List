@@ -1,0 +1,21 @@
+.contact {
+  position: relative;
+}
+
+.closeBtn {
+  position: absolute;
+  top: 50%;
+  right: 15px;
+  transform: translateY(-50%);
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.editBtn {
+  position: absolute;
+  top: 50%;
+  right: 50px;
+  transform: translateY(-50%);
+  font-size: 24px;
+  cursor: pointer;
+}
